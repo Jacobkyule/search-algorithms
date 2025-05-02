@@ -1,11 +1,5 @@
 # Search Algorithms in Python
 
-This repository implements:
-
-- Dijkstra's Algorithm
-- A* Search Algorithm
-- Simulated Annealing
-
 ---
 
 ## 👤 Student Information
@@ -14,6 +8,12 @@ This repository implements:
 **Registration Number:** SCT314-C004-2676/2024
 
 ---
+
+This repository implements:
+
+- Dijkstra's Algorithm
+- A* Search Algorithm
+- Simulated Annealing
 
 ## How to Run
 
